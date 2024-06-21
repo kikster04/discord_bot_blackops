@@ -76,4 +76,4 @@ async def submit(ctx, claim, target, operation_type, *modifiers):
     await ctx.send(embed=embed)
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-bot.run('MTI0Nzg3NjI3NTQ5NDg1MDY4NA.GE0vDr.RHI8w4EiU25FUNqOgGAtLAIPOOmQSaK3mMxVe0')
+bot.run('MTI0Nzg3NjI3NTQ5NDg1MDY4NA.GPvSxm.BZNudoTYTaASNAGfe0vqfuM12XnAhMnYR5DATg')
